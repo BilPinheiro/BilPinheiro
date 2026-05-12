@@ -1,16 +1,17 @@
-## Hi there 👋
+# Gabriel Pinheiro
 
-<!--
-**BilPinheiro/BilPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor PHP com foco em transição para Ciência de Dados.
 
-Here are some ideas to get you started:
+Atuando com backend e SQL na DBSeller Sistemas Integrados.
+Cursando Tecnologia em Ciência de Dados — UNINTER (2026).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack atual
+- **Backend:** PHP · PostgreSQL · SQL · APIs REST · Git
+- **Dados:** Python · pandas · análise exploratória
+- **Aprendendo:** scikit-learn · visualização · machine learning
+
+## 📊 Projetos em construção
+Em breve: análises com dados públicos brasileiros (CAGED, IBGE, dados municipais).
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/gabrielpinheiro-ds)
