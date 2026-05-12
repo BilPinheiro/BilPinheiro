@@ -14,4 +14,4 @@ Cursando Tecnologia em Ciência de Dados — UNINTER (2026).
 Em breve: análises com dados públicos brasileiros (CAGED, IBGE, dados municipais).
 
 ## 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/gabrielpinheiro-ds)
+[LinkedIn](https://www.linkedin.com/in/gabriel-pinheiro-ds)
